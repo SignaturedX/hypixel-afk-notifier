@@ -1,1 +1,1 @@
-# hypixel-afk_notifier
+# hypixel-afk-notifier
